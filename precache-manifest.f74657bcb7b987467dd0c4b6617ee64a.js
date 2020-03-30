@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c34fadf71764d1ee7e5f6939fd2b3491",
+    "revision": "52b1bd2af4730f1edc0ec47975f46878",
     "url": "/leaf/index.html"
   },
   {
-    "revision": "66941729bca6d8fe9093",
-    "url": "/leaf/static/css/main.fb9f1d66.chunk.css"
+    "revision": "b1cf4a7e052e09acb938",
+    "url": "/leaf/static/css/2.9de2e04a.chunk.css"
   },
   {
-    "revision": "05502664bbce6c297063",
-    "url": "/leaf/static/js/2.32f16412.chunk.js"
+    "revision": "03c8f4dcbd5500adf61e",
+    "url": "/leaf/static/css/main.84dc3105.chunk.css"
   },
   {
-    "revision": "87b155ff0ef26285c7dfd5234e8a05d3",
-    "url": "/leaf/static/js/2.32f16412.chunk.js.LICENSE.txt"
+    "revision": "b1cf4a7e052e09acb938",
+    "url": "/leaf/static/js/2.4feeca8f.chunk.js"
   },
   {
-    "revision": "66941729bca6d8fe9093",
-    "url": "/leaf/static/js/main.a8e84d46.chunk.js"
+    "revision": "3a780c0f0367466c5b4f32393a567cf0",
+    "url": "/leaf/static/js/2.4feeca8f.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "03c8f4dcbd5500adf61e",
+    "url": "/leaf/static/js/main.ca5ec925.chunk.js"
   },
   {
     "revision": "a53436a00660cb98a315",
     "url": "/leaf/static/js/runtime-main.51a65570.js"
+  },
+  {
+    "revision": "fc9e42bf438fddee7af12bf8ea659949",
+    "url": "/leaf/static/media/dish.fc9e42bf.png"
   },
   {
     "revision": "b7d281a4a56a2bee9d5a3ec7c42b5b40",
