@@ -1,5 +1,5 @@
 # Leaf
-Leaf serves as a beacon through SMS text messages and as a hub with the map that allows anyone to view where Donations are located.
+Leaf is a web-app that sends automated SMS messages to nearby people that are looking for resources such as food/clothes, it also has an interactive map that allows viewers to check nearby Donations available for pickup.
 
 
 ## How to use
